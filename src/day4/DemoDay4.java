@@ -10,4 +10,7 @@ public static void  getINfo() {
 	public static void  getData() {
 	System.out.println("ahmed");
 }
+	public static void  getData1() {
+	System.out.println("ahmed and ali");
+}
 }
