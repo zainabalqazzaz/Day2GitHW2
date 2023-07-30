@@ -7,4 +7,7 @@ public static void main(String[] args) {
 public static void  getINfo() {
 	System.out.println("ali ahmed");
 }
+	public static void  getData() {
+	System.out.println("ahmed");
+}
 }
